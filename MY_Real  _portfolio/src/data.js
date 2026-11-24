@@ -1,4 +1,4 @@
-export const PERSONAL_INFO = {
+﻿export const PERSONAL_INFO = {
   fullName: "Shumaila",
   firstName: "Shumaila",
   lastName: "—",
@@ -153,17 +153,17 @@ export const JOURNEY_MILESTONES = [
   },
   {
     year: "2026",
-    title: "Avotic 2.0 Hackathon Participant",
-    place: "Kanpur Institute of Technology",
-    meta: "Collegiate Innovation",
-    desc: "Competed in the regional hackathon tackling real-world problem statements with rapid prototype design, full-stack integration, and presentation."
-  },
-  {
-    year: "2024",
     title: "Academic Excellence Award & Medal",
     place: "Kanpur Institute of Technology",
     meta: "1st Year SGPA: 8.23",
     desc: "Awarded institutional Academic Excellence certificate and medal for ranking at the top of the department in the Bachelor of Computer Applications program."
+  },
+  {
+    year: "2025",
+    title: "Avotic 2.0 Hackathon Participant",
+    place: "Kanpur Institute of Technology",
+    meta: "Collegiate Innovation",
+    desc: "Competed in the regional hackathon tackling real-world problem statements with rapid prototype design, full-stack integration, and presentation."
   },
   {
     year: "2024",
@@ -188,7 +188,7 @@ export const CERTIFICATIONS = [
     category: "Academic",
     initials: "KIT",
     style: "charcoal",
-    year: "2024",
+    year: "2026",
     credential: "SGPA: 8.23 — Dept. Rank 1"
   },
   {
@@ -197,7 +197,7 @@ export const CERTIFICATIONS = [
     category: "Hackathon",
     initials: "HI",
     style: "white",
-    year: "2026",
+    year: "2025",
     credential: "Top 80+ / 300+ Teams"
   },
   {
@@ -206,7 +206,7 @@ export const CERTIFICATIONS = [
     category: "Competition",
     initials: "AV",
     style: "smoke",
-    year: "2026",
+    year: "2025",
     credential: "Collegiate Innovation"
   },
   {
@@ -219,3 +219,5 @@ export const CERTIFICATIONS = [
     credential: "Full-Stack Development"
   }
 ];
+
+
