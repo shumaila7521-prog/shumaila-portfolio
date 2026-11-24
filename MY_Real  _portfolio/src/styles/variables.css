@@ -1,0 +1,26 @@
+:root {
+  /* Original spec palette — warm tones matching the reference reel */
+  --color-ink: #0e0e0f;
+  --color-charcoal: #151517;
+  --color-graphite: #1c1c1f;
+  --color-slate: #26262a;
+  --color-smoke: #37363b;
+  --color-ash: #6f6c68;
+  --color-silver: #a8a49e;
+  --color-mist: #cfcac2;
+  --color-ivory: #efebe4;
+  --color-pearl: #f7f5f1;
+  --color-bg-light: #f3f2eb;
+
+  --color-lines: rgba(239, 235, 228, 0.12);
+  --color-lines-dark: rgba(14, 14, 15, 0.12);
+
+  /* Typography: Anton for display headings (matching reference reel) */
+  --font-heading: 'Anton', sans-serif;
+  --font-serif: 'Instrument Serif', Georgia, serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-body: 'Inter Variable', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --side-padding: clamp(18px, 3.2vw, 48px);
+  --ease-custom: cubic-bezier(.16, 1, .3, 1);
+}
